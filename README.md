@@ -14,7 +14,7 @@ A simple Python tool for cropping PDF files by removing unwanted margins.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/PDF_CROP.git
+   git clone https://github.com/paradogzz/pdf_crop.git
    cd PDF_CROP
    ```
 2. Install the required dependencies:
