@@ -53,5 +53,5 @@ Feel free to fork the repository, make improvements, and submit pull requests.
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details. (Note: A LICENSE file is not included in this project, but it's good practice to mention it.)
+This project is licensed under the MIT License - see the LICENSE file for details.
 ```
